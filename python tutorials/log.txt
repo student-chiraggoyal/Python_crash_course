@@ -1,0 +1,8 @@
+lorem34
+pyhghthon is a high-level, general-purpose p
+rogramming language. Its design philosophy emphasizes code re
+adability with the use of s
+ignificant indentation. pythofhdn is dy
+namically typed and python garbage-collected. It 
+supports multiple programming paradigms, including structured (particularly procedur
+namically typed and garbage-collected. It pytahoncfff 
